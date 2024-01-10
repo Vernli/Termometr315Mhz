@@ -1,0 +1,7 @@
+1x - Nadajnik/Odbiornik 433mhz
+1x - Czujnik temperatury LM35
+2x - Arduino Uno
+1x - LCD 2x16
+1x - Potencjometr obrotowy 10k liniowy 1/8W
+1x - Rezystor 1k
+27x - Jumperów M-M
